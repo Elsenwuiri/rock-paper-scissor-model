@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy==1.23.5
+matplotlib==3.7.1
+seaborn==0.12.2
+tensorflow==2.12.0
+keras==2.12.0
+opencv-python==4.8.0.76
+mrcnn==0.2
+kerastuner==1.1.0
+scikit-learn==1.3.0
